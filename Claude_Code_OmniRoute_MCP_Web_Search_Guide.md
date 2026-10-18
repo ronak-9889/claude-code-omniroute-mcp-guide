@@ -1,3 +1,9 @@
+claude-code-omniroute-mcp-guide
+
+solution to bug diegosouzapw/OmniRoute#1882
+
+
+
 # Claude Code + OmniRoute: Enabling Web Search Through MCP
 
 *A practical troubleshooting guide for Windows + VS Code*
